@@ -138,6 +138,21 @@ margin-left: .5rem;
 }
 
 
+.footer {
+  display: block;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #A86E5D;
+}
+
+a {
+  text-decoration: none;
+  color: #A86E5D
+}
+
+a:hover {
+  color: #612C1C;
+}
 
 @keyframes bounce {
   0% {
